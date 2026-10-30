@@ -8,6 +8,7 @@ My research focuses on time series forecasting and brain-inspired intelligence, 
 | [Online time-series forecasting using spiking reservoir](https://www.sciencedirect.com/science/article/pii/S0925231222013479) | [Code]() | Neurocomputing 2023 | Transfer input to spike, and use reservoir and FORCE learning to reduce the paramaters |
 | [Are Transformers Effective for Time Series Forecasting?](https://ojs.aaai.org/index.php/AAAI/article/view/26317) | [Code](https://github.com/cure-lab/LTSF-Linear) | AAAI 2023 | Prove Transformer acrually not good at TSF, suprisingly a simple linear model is better |
 | [TimeMixer: Decomposable Multiscale Mixing for Time Series Forecasting](https://arxiv.org/abs/2405.14616) | [Code](https://github.com/kwuking/TimeMixer) | ICLR 2024 | Base on DLinear seperate to trend and seasonal, then use different scale to learn |
+| [Revisiting Long-term Time Series Forecasting: An Investigation on Affine Mapping](https://www.academia.edu/3071-0286/2/2/10.20935/AcadAI8236) | [Code](https://github.com/plumprc/RTSF) | Academia AI and Applications 2026 | Proved the existed problem on linear model |
 ## Brain-inspired Intelligence
 | Method Name | Code | Source | Comment |
 | ----------- | ---- | ------ | ------- |
