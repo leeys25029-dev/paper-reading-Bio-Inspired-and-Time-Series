@@ -9,6 +9,8 @@ My research focuses on time series forecasting and brain-inspired intelligence, 
 | [Are Transformers Effective for Time Series Forecasting?](https://ojs.aaai.org/index.php/AAAI/article/view/26317) | [Code](https://github.com/cure-lab/LTSF-Linear) | AAAI 2023 | Prove Transformer acrually not good at TSF, suprisingly a simple linear model is better |
 | [TimeMixer: Decomposable Multiscale Mixing for Time Series Forecasting](https://arxiv.org/abs/2405.14616) | [Code](https://github.com/kwuking/TimeMixer) | ICLR 2024 | Base on DLinear seperate to trend and seasonal, then use different scale to learn |
 | [Revisiting Long-term Time Series Forecasting: An Investigation on Affine Mapping](https://www.academia.edu/3071-0286/2/2/10.20935/AcadAI8236) | [Code](https://github.com/plumprc/RTSF) | Academia AI and Applications 2026 | Proved the existed problem on linear model |
+| [SOFTS: Efficient Multivariate Time Series Forecasting with Series-Core Fusion](https://arxiv.org/abs/2404.14197) | [Code](https://github.com/Secilia-Cxy/SOFTS) | NeurIPS 2024 | Use 2 MLP
+and 2 linear in the structure, quite complicated but it works |
 ## Brain-inspired Intelligence
 | Method Name | Code | Source | Comment |
 | ----------- | ---- | ------ | ------- |
